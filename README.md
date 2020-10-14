@@ -1,5 +1,5 @@
 # EComp
 
-## Group 16
+## Group 2
 
 Student repo
