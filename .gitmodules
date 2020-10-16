@@ -1,3 +1,6 @@
 [submodule "iob-timer"]
-	path = iob-timer
+	path = labs/1/iob-timer
 	url = git@github.com:jose-serafim/iob-timer.git
+[submodule "tools/iob-lib"]
+	path = tools/iob-lib
+	url = git@github.com:IObundle/iob-lib.git
