@@ -5,5 +5,5 @@
 	path = submodules/iob-lib
 	url = git@github.com:IObundle/iob-lib.git
 [submodule "submodules/iob-soc"]
-	path = submodules/iob-soc
+	path = submodules/iob-soc-fork
 	url = git@github.com:jose-serafim/iob-soc.git
