@@ -7,3 +7,9 @@
 [submodule "submodules/iob-soc"]
 	path = submodules/iob-soc-fork
 	url = git@github.com:jose-serafim/iob-soc.git
+[submodule "submodules/knn_fork"]
+	path = submodules/knn_fork
+	url = git@github.com:josejsarmento/iob-knn.git
+[submodule "submodules/soc_knn_fork"]
+	path = submodules/soc_knn_fork
+	url = git@github.com:josejsarmento/iob-soc-knn.git
