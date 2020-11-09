@@ -1,7 +1,4 @@
-[submodule "iob-timer"]
-	path = submodules/timer-fork
-	url = git@github.com:jose-serafim/iob-timer.git
-[submodule "tools/iob-lib"]
+[submodule "submodules/iob-lib"]
 	path = submodules/lib
 	url = git@github.com:IObundle/iob-lib.git
 [submodule "submodules/iob-soc"]
