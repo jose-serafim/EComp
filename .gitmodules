@@ -10,3 +10,6 @@
 [submodule "submodules/soc_knn_fork"]
 	path = submodules/soc-knn-fork
 	url = git@github.com:josejsarmento/iob-soc-knn.git
+[submodule "submodules/timer-fork"]
+	path = submodules/timer-fork
+	url = git@github.com:josejsarmento/iob-timer.git
