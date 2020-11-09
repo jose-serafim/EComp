@@ -1,15 +1,15 @@
 [submodule "iob-timer"]
-	path = timer-fork
+	path = submodules/timer-fork
 	url = git@github.com:jose-serafim/iob-timer.git
 [submodule "tools/iob-lib"]
-	path = lib
+	path = submodules/lib
 	url = git@github.com:IObundle/iob-lib.git
 [submodule "submodules/iob-soc"]
-	path = iob-soc-fork
+	path = submodules/iob-soc-fork
 	url = git@github.com:jose-serafim/iob-soc.git
 [submodule "submodules/knn_fork"]
-	path = knn_fork
+	path = submodules/knn-fork
 	url = git@github.com:josejsarmento/iob-knn.git
 [submodule "submodules/soc_knn_fork"]
-	path = soc_knn_fork
+	path = submodules/soc-knn-fork
 	url = git@github.com:josejsarmento/iob-soc-knn.git
