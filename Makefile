@@ -14,6 +14,8 @@ knn-fork: compile-and-run
 
 timer-fork: compile-and-run
 
+test: compile-and-run
+
 compile-and-run:
 ifeq ($(HOST),local)
 	make -C submodules/$(MAKECMDGOALS) $(OBJ) D=1 

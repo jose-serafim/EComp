@@ -16,3 +16,6 @@
 [submodule "submodules/iob-soc-fork-jjs"]
 	path = submodules/jjs-iob-soc-fork
 	url = git@github.com:josejsarmento/iob-soc.git
+[submodule "submodules/test"]
+	path = submodules/test
+	url = git@github.com:josejsarmento/ecmp-test.git
