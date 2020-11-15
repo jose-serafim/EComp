@@ -13,3 +13,6 @@
 [submodule "submodules/timer-fork"]
 	path = submodules/timer-fork
 	url = git@github.com:josejsarmento/iob-timer.git
+[submodule "submodules/iob-soc-fork-jjs"]
+	path = submodules/iob-soc-fork-jjs
+	url = git@github.com:josejsarmento/iob-soc.git
