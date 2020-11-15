@@ -6,6 +6,8 @@ all:
 
 iob-soc-fork: compile-and-run
 
+jjs-iob-soc-fork: compile-and-run
+
 soc-knn-fork: compile-and-run
 
 knn-fork: compile-and-run
