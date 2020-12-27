@@ -2,7 +2,7 @@
 ROOT_DIR := .
 
 # Server info
-#HOST = local
+HOST = local #comment to use other host
 SERVER := geiger@geiger.local
 #PORT := -p 22
 RSYNC_REMOTE := -e 'ssh $(PORT)'
